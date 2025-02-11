@@ -17,6 +17,6 @@ assignees: ''
 ###Acceptance criteria###
 ```gherkin
 Given [some context],
-when [an event occurs]
-then [an outcome is expected]
+When [an event occurs]
+Then [an outcome is expected]
 ```
